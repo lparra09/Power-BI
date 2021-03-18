@@ -1,5 +1,5 @@
 # Power-BI
-Sample project from Udemy Course
+Sample projects from Udemy Course
 
 
 The files included are excercises from the course a Udemy course on Power BI for data analysis and Business intelligence
